@@ -1,0 +1,5 @@
+yourname    = "dylan"
+location    = "West US 2"
+target_url  = "https://example.com"
+alert_email = "dylanbryson432@gmail.com"
+alert_phone = "+17576065168"

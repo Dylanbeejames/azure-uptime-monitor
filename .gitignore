@@ -1,0 +1,10 @@
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
+function_app/.python_packages/
+function_deploy.zip
+deploy_temp/
+.venv/
+__pycache__/
+*.pyc
