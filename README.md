@@ -4,7 +4,7 @@
 
 ## Walkthrough
 
-[Loom video coming soon — drop link here once recorded]
+https://www.loom.com/share/dc243b23e30041d39f13c6dfc6059427
 
 ---
 
