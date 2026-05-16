@@ -4,7 +4,7 @@
 
 ## Walkthrough
 
-https://www.loom.com/share/dc243b23e30041d39f13c6dfc6059427
+[Dylan Bryson — Azure Website Uptime Monitor](https://www.loom.com/share/dc243b23e30041d39f13c6dfc6059427)
 
 ---
 
